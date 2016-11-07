@@ -13,6 +13,7 @@
 		FA0F72E41DCFD8490074892C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA0F72E31DCFD8490074892C /* Assets.xcassets */; };
 		FA0F72E71DCFD8490074892C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA0F72E51DCFD8490074892C /* LaunchScreen.storyboard */; };
 		FA0F72EF1DCFDD300074892C /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = FA0F72EE1DCFDD300074892C /* pokemon.csv */; };
+		FA0F72F11DCFDF100074892C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = FA0F72F01DCFDF100074892C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA0F72E61DCFD8490074892C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA0F72E81DCFD8490074892C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA0F72EE1DCFDD300074892C /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
+		FA0F72F01DCFDF100074892C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		FA0F72DB1DCFD8490074892C /* pokedex3 */ = {
 			isa = PBXGroup;
 			children = (
+				FA0F72F01DCFDF100074892C /* README.md */,
 				FA0F72DC1DCFD8490074892C /* AppDelegate.swift */,
 				FA0F72DE1DCFD8490074892C /* ViewController.swift */,
 				FA0F72E01DCFD8490074892C /* Main.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA0F72F11DCFDF100074892C /* README.md in Sources */,
 				FA0F72DF1DCFD8490074892C /* ViewController.swift in Sources */,
 				FA0F72DD1DCFD8490074892C /* AppDelegate.swift in Sources */,
 			);
@@ -304,6 +308,7 @@
 				FA0F72ED1DCFD8490074892C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
