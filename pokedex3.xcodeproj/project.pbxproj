@@ -136,6 +136,7 @@
 					FA0F72D81DCFD8480074892C = {
 						CreatedOnToolsVersion = 8.1;
 						DevelopmentTeam = 2KE78993Q9;
+						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
 				};
