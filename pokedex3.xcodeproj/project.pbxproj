@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		557D656A1DE0AC520028C4A4 /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557D65691DE0AC520028C4A4 /* PokemonDetailVC.swift */; };
 		FA0833131DD10FE9002EA9A4 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0833121DD10FE9002EA9A4 /* Pokemon.swift */; };
 		FA08331A1DD133C2002EA9A4 /* PokeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0833191DD133C2002EA9A4 /* PokeCell.swift */; };
 		FA0F72DD1DCFD8490074892C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0F72DC1DCFD8490074892C /* AppDelegate.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		557D65691DE0AC520028C4A4 /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 		FA0833121DD10FE9002EA9A4 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		FA0833191DD133C2002EA9A4 /* PokeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeCell.swift; sourceTree = "<group>"; };
 		FA0F72D91DCFD8490074892C /* pokedex3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokedex3.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -110,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				FA0F72DE1DCFD8490074892C /* ViewController.swift */,
+				557D65691DE0AC520028C4A4 /* PokemonDetailVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				FA0F72F11DCFDF100074892C /* README.md in Sources */,
 				FA0833131DD10FE9002EA9A4 /* Pokemon.swift in Sources */,
 				FA0F72DF1DCFD8490074892C /* ViewController.swift in Sources */,
+				557D656A1DE0AC520028C4A4 /* PokemonDetailVC.swift in Sources */,
 				FA0F72DD1DCFD8490074892C /* AppDelegate.swift in Sources */,
 				FA08331A1DD133C2002EA9A4 /* PokeCell.swift in Sources */,
 			);
