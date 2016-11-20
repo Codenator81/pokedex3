@@ -34,5 +34,7 @@ class Pokemon {
     init(name: String, pokedexId: Int) {
         self._name = name
         self._pokedexId = pokedexId
+        
+        self._pokemonURL = "\(URL_BASE)\(URL_POKEMON)\(self.pokedexId)/"
     }
 }
